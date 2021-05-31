@@ -511,61 +511,61 @@ img{
 }
 
 .skills__html{
-    width: 90%;
-}
-.skills__css{
-    width: 80%;
-}
-.skills__javascript{
-    width: 70%;
-}
-.skills__react{
-    width: 60%;
-}
-.skills__php{
-    width: 50%;
-}
-.skills__nodejs{
-    width: 70%;
-}
-.skills__firebase{
-    width: 40%;
-}
-.skills__mongodb{
-    width: 70%;
-}
-.skills__python{
-    width: 70%;
-}
-.skills__mysql{
-    width: 80%;
-}
-.skills__pythonscripting{
-    width: 70%;
-}
-.skills__networking{
-    width: 80%;
-}
-.skills__cloudcomputing{
-    width: 60%;
-}
-.skills__kalilinux{
-    width: 90%;
-}
-.skills__informationsecurity{
     width: 75%;
 }
+.skills__css{
+    width: 75%;
+}
+.skills__javascript{
+    width: 50%;
+}
+.skills__react{
+    width: 40%;
+}
+.skills__php{
+    width: 30%;
+}
+.skills__nodejs{
+    width: 40%;
+}
+.skills__firebase{
+    width: 30%;
+}
+.skills__mongodb{
+    width: 40%;
+}
+.skills__python{
+    width: 60%;
+}
+.skills__mysql{
+    width: 50%;
+}
+.skills__pythonscripting{
+    width: 40%;
+}
+.skills__networking{
+    width: 50%;
+}
+.skills__cloudcomputing{
+    width: 450%;
+}
+.skills__kalilinux{
+    width: 80%;
+}
+.skills__informationsecurity{
+    width: 70%;
+}
 .skills__riskanalysis{
-    width: 95%;
+    width: 80%;
 }
 .skills__malwareanalysis{
     width: 70%;
 }
 .skills__communication{
-    width:90%;
+    width:75%;
 }
 .skills__criticalthinking{
-    width:70%;
+    width:60%;
 }
 .skills__leadership{
     width:70%;
@@ -574,28 +574,28 @@ img{
     width:85%;
 }
 .skills__teamwork{
-    width:95%;
-}
-.skills__c{
     width:90%;
 }
+.skills__c{
+    width:70%;
+}
 .skills__java{
-    width:80%;
+    width:70%;
 }
 .skills__py{
-    width:70%;
+    width:50%;
 }
 .skills__njs{
-    width:85%;
-}
-.skills__aphotoshop{
     width:60%;
 }
+.skills__aphotoshop{
+    width:50%;
+}
 .skills__aaftereffects{
-    width:65%;
+    width:40%;
 }
 .skills__davinci{
-    width:70%;
+    width:50%;
 }
 .skills__close .skills__list{
     height: 0;
